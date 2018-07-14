@@ -1,6 +1,6 @@
 ## English
 
-# spntaBot v 1.9 [Wiki!](https://github.com/MOHAMADKHOSHNAVA/spntaBot/wiki)
+# spntaBot v 1.9 [Wiki!](https://github.com/MrMahdi313/spnta/wiki)
 
 spnta is a telegram bot based on [Telepot](https://github.com/nickoala/telepot) & [Siarobo](https://github.com/siyanew/Siarobo) - http://telegram.me/spntaBot
 
